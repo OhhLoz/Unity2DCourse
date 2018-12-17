@@ -42,3 +42,8 @@ Assets/StreamingAssets/crashlytics-build.properties
 */.vscode/
 */Assets/@Themes/
 */Assets/@Themes.meta
+
+_GAMEASSETS/
+
+*/*/Assets/@Themes/
+*/*/Assets/@Themes.meta

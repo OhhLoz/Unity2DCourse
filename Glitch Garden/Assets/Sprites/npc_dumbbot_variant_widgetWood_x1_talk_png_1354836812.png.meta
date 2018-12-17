@@ -1,0 +1,1570 @@
+fileFormatVersion: 2
+guid: 0434c4757bf572b4c96cc28f41f9932d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_0
+    21300002: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_1
+    21300004: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_2
+    21300006: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_3
+    21300008: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_4
+    21300010: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_5
+    21300012: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_6
+    21300014: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_7
+    21300016: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_8
+    21300018: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_9
+    21300020: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_10
+    21300022: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_11
+    21300024: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_12
+    21300026: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_13
+    21300028: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_14
+    21300030: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_15
+    21300032: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_16
+    21300034: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_17
+    21300036: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_18
+    21300038: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_19
+    21300040: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_20
+    21300042: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_21
+    21300044: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_22
+    21300046: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_23
+    21300048: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_24
+    21300050: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_25
+    21300052: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_26
+    21300054: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_27
+    21300056: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_28
+    21300058: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_29
+    21300060: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_30
+    21300062: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_31
+    21300064: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_32
+    21300066: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_33
+    21300068: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_34
+    21300070: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_35
+    21300072: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_36
+    21300074: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_37
+    21300076: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_38
+    21300078: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_39
+    21300080: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_40
+    21300082: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_41
+    21300084: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_42
+    21300086: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_43
+    21300088: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_44
+    21300090: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_45
+    21300092: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_46
+    21300094: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_47
+    21300096: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_48
+    21300098: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_49
+    21300100: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_50
+    21300102: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_51
+    21300104: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_52
+    21300106: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_53
+    21300108: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_54
+    21300110: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_55
+    21300112: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_56
+    21300114: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_57
+    21300116: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_58
+    21300118: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_59
+    21300120: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_60
+    21300122: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_61
+    21300124: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_62
+    21300126: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_63
+    21300128: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_64
+    21300130: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_65
+    21300132: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_66
+    21300134: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_67
+    21300136: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_68
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 442
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3310b05b51844693562cc4168d1f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 442
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913a3fd833e1d7408e1b01ce6d8917b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 442
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a742d6d4efab34d8a8b5e261d862d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 440
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d0f04985b6294db48659026a2c5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 442
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49473298fcbf0804da20a5a4278f5843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 442
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1760d7dac9e9d3439ebce858e259f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 442
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50e982185d8744c80b71e1789385a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 442
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf4637185f7af4bac430a6cd1a7f2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 442
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf43ed748f8bb34c9c8bfa4f0208cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 442
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea1d298540a374b8e4d6448e12feb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 442
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32be093eb797d4d9f2b1b08d187631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 442
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d8131a21b284499cf295c6cc1c026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da9834a4b41f244965bbc4fc3cd83e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 354
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591fccd8ff9fe8e48b82d7fc38ea89ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 354
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada67fe40d0e374dbbd93bb8984ff11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 354
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea79f727709974da7f393a464f38b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 354
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09af9717f405694698a324721fedd05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 354
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454912d64799f304685364721507e486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 354
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2083f0613cf5469f3e5cc2c4e95a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 354
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57ed2950973994d812417a44cabbba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 354
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f677b696eb11eb741b73e325f58875d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_21
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 354
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7b1f28977d8347ab7e1f4f6d29b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_22
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 354
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795c86ce174711448f93cccc8db8f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_23
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 354
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099c807847019d943b87125d769ec157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9d1f53b1abc9343b56d3f6b2711f1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 266
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168249cab518eb41b5de04878f53de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 266
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2eef7a310ab64da1d65d29157c8aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 266
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae7a010f955f643a261092644b0b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 266
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19519c4b495983c49a5d7a277d17d74c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 266
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9388ea5a0662337489a92bda70743905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 266
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f700f905009d8144a1f007706a4340e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 266
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bb959aa8bdd884ab020810dacad343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 266
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb411be8ac335841aac40b0f4b62a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 266
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38d806e75e76943877386eaf98cdee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 266
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b4cc99944049489c5eabf6e7df7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_35
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 266
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e587c8e72ef0c4ab5d060baade00e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847b6fcecd20a9648812deeb5488fa27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 178
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc83cc83cfcb1c44b33edce140939c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_38
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11262a7de94515a4aa36051f280b247a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 178
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9b90db2be59d488e2a078bcd869a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 178
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd3d079a291864396d144f931b9e63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52b8a732014cd4fbb825c4c72bf8f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_42
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e2d5a3fac493d4e9072a8d64263929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bbf53cbd8e9cf4883ae94306813edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c4e4107e338db47b707a6cc72c1e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_45
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aa2432c332fa49a1f5573bd98ab39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_46
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaadd431c26bbf469e11d29e4b2a0ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 178
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42dfff671c3bb4f9e04c4c1bd455dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02669ebe998023b48a8677ae1c356eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b4a01b82381541aab1d39f1833968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954db510de20894db7d4e38d0230819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558a6736255ca4449a5a877075fc2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_52
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73f0ac50f747d84b8158f59e9c57fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_53
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71caac3ffc33ea748be43713016fb191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_54
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 90
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad4820ab91b85439f33be1ca093719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ab9ff2354c60a4a98d030632118831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_56
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 90
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef41244473e0d7741813c4c9dd840bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_57
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 90
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8980b8e5a7dc3147a9e5a8261d14d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_58
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 90
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005edbb32b9e0614b86ca9a4a3a83e8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_59
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 90
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a3577eb9d40748b5c765e0eaea750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae659fa1b422d42a58b881c6077d4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c0da6dfeca6d4b8fbb6a31a7117b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e5e34d57b91245b1358a031dc9e2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5906c9375b44614c882ce88849773fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_64
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b56d6c11d2ef4b826c3d372747d6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_65
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dcb8824f48c834d8b5f27bf832f742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_66
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe07aa17ffb024fa978c0e0e9d8770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_67
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d534ba80f82547c49bbfe830a177a7dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWood_x1_talk_png_1354836812_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744afdf9d0711b64c913c973560665d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2be644eec98971e47969471245a9838c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

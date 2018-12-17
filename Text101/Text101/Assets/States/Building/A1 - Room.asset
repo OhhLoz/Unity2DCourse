@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8bd7ec92f62f74fb0639199392d962, type: 3}
+  m_Name: A1 - Room
+  m_EditorClassIdentifier: 
+  storyText: "You awaken in a dark, damp room. A faint light shines through a crack
+    in the wall.\r\nYou notice that there is a door at the other end of the room.\r\n\r\nExplore
+    the room or head straight for the door?\r\n\r\nWhat should I do?\r\n1. Explore
+    the room.\r\n2. Head for the door."
+  nextStates:
+  - {fileID: 11400000, guid: f6f5e4d8609d5204db27e04ddddc6f20, type: 2}
+  - {fileID: 11400000, guid: bf8ac9a9d3a4d27448571ce46f0b3d14, type: 2}

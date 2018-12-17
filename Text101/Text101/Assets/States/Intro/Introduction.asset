@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8bd7ec92f62f74fb0639199392d962, type: 3}
+  m_Name: Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to the game.
+
+
+    It is a choose your own adventure game, you press the corresponding number to
+    your choice.
+
+
+    You will be prompted at each stage and your actions have consequences!
+
+
+    At any point in time push q to quit.
+
+
+    Push 1 to continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 0951b4e7d7098e94d976fdb8a391feee, type: 2}
