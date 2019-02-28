@@ -19,6 +19,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4170458287663208}
+  - component: {fileID: 114279029754186058}
   m_Layer: 0
   m_Name: CactusDefender
   m_TagString: Untagged
@@ -131,6 +132,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   zucchini: {fileID: 1229021452542196, guid: 28a197a6e758fa547be4c7bc0da0fc9b, type: 2}
   gun: {fileID: 1710904206979008}
+--- !u!114 &114279029754186058
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1017276731796174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ac5af81aac5cb47b14f74ce89fd5c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starCost: 100
 --- !u!212 &212661713795601764
 SpriteRenderer:
   m_ObjectHideFlags: 1

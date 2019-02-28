@@ -1094,7 +1094,7 @@ Prefab:
     - target: {fileID: 114507909602751412, guid: 63843e4f669a40e47a8fc470d337e19f,
         type: 2}
       propertyPath: isAutoPlay
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63843e4f669a40e47a8fc470d337e19f, type: 2}
