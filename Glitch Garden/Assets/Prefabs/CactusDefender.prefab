@@ -20,6 +20,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4170458287663208}
   - component: {fileID: 114279029754186058}
+  - component: {fileID: 95230862603778572}
+  - component: {fileID: 114660532791059582}
   m_Layer: 0
   m_Name: CactusDefender
   m_TagString: Untagged
@@ -36,8 +38,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4337628128906318}
   - component: {fileID: 212661713795601764}
-  - component: {fileID: 95790974519342918}
-  - component: {fileID: 114075879955872874}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -101,13 +101,13 @@ Transform:
   m_Father: {fileID: 4337628128906318}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &95790974519342918
+--- !u!95 &95230862603778572
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1536340301358006}
+  m_GameObject: {fileID: 1017276731796174}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 0043f9bb0e66a944d835986abfa9832d, type: 2}
@@ -119,19 +119,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114075879955872874
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1536340301358006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 057a2ac544daca14a8f77f29e1e8fbdb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  zucchini: {fileID: 1229021452542196, guid: 28a197a6e758fa547be4c7bc0da0fc9b, type: 2}
-  gun: {fileID: 1710904206979008}
 --- !u!114 &114279029754186058
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -144,6 +131,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   starCost: 100
+--- !u!114 &114660532791059582
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1017276731796174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057a2ac544daca14a8f77f29e1e8fbdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zucchini: {fileID: 1229021452542196, guid: 28a197a6e758fa547be4c7bc0da0fc9b, type: 2}
+  gun: {fileID: 1710904206979008}
 --- !u!212 &212661713795601764
 SpriteRenderer:
   m_ObjectHideFlags: 1
