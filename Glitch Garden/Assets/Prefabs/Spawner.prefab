@@ -26,7 +26,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4220826529047194
 Transform:
   m_ObjectHideFlags: 1
@@ -53,4 +53,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpawnTime: 5
   minSpawnTime: 1
-  attackerToSpawn: {fileID: 0}
+  attackerToSpawn: {fileID: 114402033605991754, guid: d6cf27ad69ff2a3438286a464a4d6291,
+    type: 2}

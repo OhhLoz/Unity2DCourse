@@ -5,15 +5,15 @@ using UnityEngine;
 public class Defender : MonoBehaviour 
 {
 	[SerializeField] int starCost = 100;
-	// Use this for initialization
-	void Start() 
+
+	public void AddStars(int amountToAdd)
 	{
-		
-	}
-	
-	// Update is called once per frame
-	void Update() 
-	{
-		
+		StarDisplay temp = FindObjectOfType<StarDisplay>();
+		if(temp != null)
+		{
+			Debug.Log("Adding Stars");
+			temp.AddStars(amountToAdd);
+		}
+			
 	}
 }
